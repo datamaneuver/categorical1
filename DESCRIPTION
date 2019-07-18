@@ -1,0 +1,10 @@
+Package: categorical
+Type: Package
+Title: Function for Frequency count of all the nominal variables
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: sandeep marpini<sandeepmarpini@gmail.com>
+Description: Function for Frequency count of all the nominal variables
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
