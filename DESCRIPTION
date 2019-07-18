@@ -1,4 +1,4 @@
-Package: categorical
+Package: categorical1
 Type: Package
 Title: Function for Frequency count of all the nominal variables
 Version: 0.1.0
