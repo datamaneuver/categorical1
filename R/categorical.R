@@ -1,4 +1,4 @@
-categorical <- function(data)
+categorical1 <- function(data)
 {
   d = data
   categorical_columns = c()
